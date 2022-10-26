@@ -1,0 +1,15 @@
+C:\Users\Barry\source\repos\Laba5Git\bin\Debug\net6.0\Laba5Git.exe
+C:\Users\Barry\source\repos\Laba5Git\bin\Debug\net6.0\Laba5Git.deps.json
+C:\Users\Barry\source\repos\Laba5Git\bin\Debug\net6.0\Laba5Git.runtimeconfig.json
+C:\Users\Barry\source\repos\Laba5Git\bin\Debug\net6.0\Laba5Git.dll
+C:\Users\Barry\source\repos\Laba5Git\bin\Debug\net6.0\Laba5Git.pdb
+C:\Users\Barry\source\repos\Laba5Git\obj\Debug\net6.0\Laba5Git.csproj.AssemblyReference.cache
+C:\Users\Barry\source\repos\Laba5Git\obj\Debug\net6.0\Laba5Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barry\source\repos\Laba5Git\obj\Debug\net6.0\Laba5Git.AssemblyInfoInputs.cache
+C:\Users\Barry\source\repos\Laba5Git\obj\Debug\net6.0\Laba5Git.AssemblyInfo.cs
+C:\Users\Barry\source\repos\Laba5Git\obj\Debug\net6.0\Laba5Git.csproj.CoreCompileInputs.cache
+C:\Users\Barry\source\repos\Laba5Git\obj\Debug\net6.0\Laba5Git.dll
+C:\Users\Barry\source\repos\Laba5Git\obj\Debug\net6.0\refint\Laba5Git.dll
+C:\Users\Barry\source\repos\Laba5Git\obj\Debug\net6.0\Laba5Git.pdb
+C:\Users\Barry\source\repos\Laba5Git\obj\Debug\net6.0\Laba5Git.genruntimeconfig.cache
+C:\Users\Barry\source\repos\Laba5Git\obj\Debug\net6.0\ref\Laba5Git.dll
